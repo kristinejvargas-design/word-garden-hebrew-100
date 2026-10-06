@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kristinejvargas-design.github.io/word-garden-hebrew-100/sitemap.xml

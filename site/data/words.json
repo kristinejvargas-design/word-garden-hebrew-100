@@ -1,0 +1,1202 @@
+[
+  {
+    "rank": 1,
+    "strongs": "H853",
+    "hebrew": "אֵת",
+    "transliteration": "ʼêth",
+    "gloss": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)",
+    "count": 10979,
+    "example": {
+      "reference": "Genesis 27:17",
+      "text": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob."
+    }
+  },
+  {
+    "rank": 2,
+    "strongs": "H3068",
+    "hebrew": "יְהֹוָה",
+    "transliteration": "Yᵉhôvâh",
+    "gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+    "count": 6521,
+    "example": {
+      "reference": "Genesis 16:9",
+      "text": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+    }
+  },
+  {
+    "rank": 3,
+    "strongs": "H5921",
+    "hebrew": "עַל",
+    "transliteration": "ʻal",
+    "gloss": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
+    "count": 5781,
+    "example": {
+      "reference": "Genesis 40:21",
+      "text": "And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:"
+    }
+  },
+  {
+    "rank": 4,
+    "strongs": "H413",
+    "hebrew": "אֵל",
+    "transliteration": "ʼêl",
+    "gloss": "near, with or among; often in general, to",
+    "count": 5516,
+    "example": {
+      "reference": "Genesis 16:9",
+      "text": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+    }
+  },
+  {
+    "rank": 5,
+    "strongs": "H834",
+    "hebrew": "אֲשֶׁר",
+    "transliteration": "ʼăsher",
+    "gloss": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc.",
+    "count": 5503,
+    "example": {
+      "reference": "Genesis 25:10",
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+    }
+  },
+  {
+    "rank": 6,
+    "strongs": "H3605",
+    "hebrew": "כֹּל",
+    "transliteration": "kôl",
+    "gloss": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
+    "count": 5417,
+    "example": {
+      "reference": "Genesis 34:15",
+      "text": "But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;"
+    }
+  },
+  {
+    "rank": 7,
+    "strongs": "H559",
+    "hebrew": "אָמַר",
+    "transliteration": "ʼâmar",
+    "gloss": "to say (used with great latitude)",
+    "count": 5318,
+    "example": {
+      "reference": "Genesis 16:9",
+      "text": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+    }
+  },
+  {
+    "rank": 8,
+    "strongs": "H3808",
+    "hebrew": "לֹא",
+    "transliteration": "lôʼ",
+    "gloss": "not (the simple or abs. negation); by implication, no; often used with other particles",
+    "count": 5191,
+    "example": {
+      "reference": "Genesis 28:16",
+      "text": "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
+    }
+  },
+  {
+    "rank": 9,
+    "strongs": "H1121",
+    "hebrew": "בֵּן",
+    "transliteration": "bên",
+    "gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+    "count": 4942,
+    "example": {
+      "reference": "Genesis 25:10",
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+    }
+  },
+  {
+    "rank": 10,
+    "strongs": "H3588",
+    "hebrew": "כִּי",
+    "transliteration": "kîy",
+    "gloss": "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed",
+    "count": 4488,
+    "example": {
+      "reference": "Genesis 46:30",
+      "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive."
+    }
+  },
+  {
+    "rank": 11,
+    "strongs": "H1961",
+    "hebrew": "הָיָה",
+    "transliteration": "hâyâh",
+    "gloss": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
+    "count": 3575,
+    "example": {
+      "reference": "Genesis 9:27",
+      "text": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+    }
+  },
+  {
+    "rank": 12,
+    "strongs": "H6213",
+    "hebrew": "עָשָׂה",
+    "transliteration": "ʻâsâh",
+    "gloss": "to do or make, in the broadest sense and widest application",
+    "count": 2640,
+    "example": {
+      "reference": "Genesis 27:17",
+      "text": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob."
+    }
+  },
+  {
+    "rank": 13,
+    "strongs": "H430",
+    "hebrew": "אֱלֹהִים",
+    "transliteration": "ʼĕlôhîym",
+    "gloss": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
+    "count": 2600,
+    "example": {
+      "reference": "Genesis 9:27",
+      "text": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+    }
+  },
+  {
+    "rank": 14,
+    "strongs": "H935",
+    "hebrew": "בּוֹא",
+    "transliteration": "bôwʼ",
+    "gloss": "to go or come (in a wide variety of applications)",
+    "count": 2592,
+    "example": {
+      "reference": "Genesis 27:10",
+      "text": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
+    }
+  },
+  {
+    "rank": 15,
+    "strongs": "H4428",
+    "hebrew": "מֶלֶךְ",
+    "transliteration": "melek",
+    "gloss": "a king",
+    "count": 2526,
+    "example": {
+      "reference": "Genesis 14:18",
+      "text": "And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God."
+    }
+  },
+  {
+    "rank": 16,
+    "strongs": "H3478",
+    "hebrew": "יִשְׂרָאֵל",
+    "transliteration": "Yisrâʼêl",
+    "gloss": "he will rule as God; Jisraël, a symbolical name of Jacob; also (typically) of his posterity",
+    "count": 2507,
+    "example": {
+      "reference": "Genesis 43:6",
+      "text": "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?"
+    }
+  },
+  {
+    "rank": 17,
+    "strongs": "H776",
+    "hebrew": "אֶרֶץ",
+    "transliteration": "ʼerets",
+    "gloss": "the earth (at large, or partitively a land)",
+    "count": 2505,
+    "example": {
+      "reference": "Genesis 10:10",
+      "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+    }
+  },
+  {
+    "rank": 18,
+    "strongs": "H3117",
+    "hebrew": "יוֹם",
+    "transliteration": "yôwm",
+    "gloss": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
+    "count": 2304,
+    "example": {
+      "reference": "Genesis 25:33",
+      "text": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+    }
+  },
+  {
+    "rank": 19,
+    "strongs": "H376",
+    "hebrew": "אִישׁ",
+    "transliteration": "ʼîysh",
+    "gloss": "a man as an individual or a male person; often used as an adjunct to a more definite term (and in such cases frequently not expressed in translation)",
+    "count": 2187,
+    "example": {
+      "reference": "Genesis 27:11",
+      "text": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:"
+    }
+  },
+  {
+    "rank": 20,
+    "strongs": "H6440",
+    "hebrew": "פָּנִים",
+    "transliteration": "pânîym",
+    "gloss": "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)",
+    "count": 2127,
+    "example": {
+      "reference": "Genesis 27:10",
+      "text": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
+    }
+  },
+  {
+    "rank": 21,
+    "strongs": "H1004",
+    "hebrew": "בַּיִת",
+    "transliteration": "bayith",
+    "gloss": "a house (in the greatest variation of applications, especially family, etc.)",
+    "count": 2056,
+    "example": {
+      "reference": "Genesis 15:3",
+      "text": "And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir."
+    }
+  },
+  {
+    "rank": 22,
+    "strongs": "H5414",
+    "hebrew": "נָתַן",
+    "transliteration": "nâthan",
+    "gloss": "to give, used with greatest latitude of application (put, make, etc.)",
+    "count": 2015,
+    "example": {
+      "reference": "Genesis 27:17",
+      "text": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob."
+    }
+  },
+  {
+    "rank": 23,
+    "strongs": "H1931",
+    "hebrew": "הוּא",
+    "transliteration": "hûwʼ",
+    "gloss": "he (she or it); only expressed when emphatic or without a verb; also (intensively) self, or (especially with the article) the same; sometimes (as demonstrative) this or that; occasionally (instead of copula) as or are",
+    "count": 1889,
+    "example": {
+      "reference": "Genesis 32:3",
+      "text": "And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom."
+    }
+  },
+  {
+    "rank": 24,
+    "strongs": "H5971",
+    "hebrew": "עַם",
+    "transliteration": "ʻam",
+    "gloss": "a people (as a congregated unit); specifically, a tribe (as those of Israel); hence (collectively) troops or attendants; figuratively, a flock",
+    "count": 1870,
+    "example": {
+      "reference": "Exodus 10:4",
+      "text": "Else, if thou refuse to let my people go, behold, to morrow will I bring the locusts into thy coast:"
+    }
+  },
+  {
+    "rank": 25,
+    "strongs": "H3027",
+    "hebrew": "יָד",
+    "transliteration": "yâd",
+    "gloss": "a hand (the open one [indicating power, means, direction, etc.], in distinction from 3709, the closed one); used (as noun, adverb, etc.) in a great variety of applications, both literally and figuratively, both proximate and remote [as follows]",
+    "count": 1627,
+    "example": {
+      "reference": "Genesis 16:9",
+      "text": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+    }
+  },
+  {
+    "rank": 26,
+    "strongs": "H1697",
+    "hebrew": "דָּבָר",
+    "transliteration": "dâbâr",
+    "gloss": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause",
+    "count": 1455,
+    "example": {
+      "reference": "Genesis 41:28",
+      "text": "This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh."
+    }
+  },
+  {
+    "rank": 27,
+    "strongs": "H7200",
+    "hebrew": "רָאָה",
+    "transliteration": "râʼâh",
+    "gloss": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
+    "count": 1314,
+    "example": {
+      "reference": "Genesis 32:3",
+      "text": "And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom."
+    }
+  },
+  {
+    "rank": 28,
+    "strongs": "H5704",
+    "hebrew": "עַד",
+    "transliteration": "ʻad",
+    "gloss": "as far (or long, or much) as, whether of space (even unto) or time (during, while, until) or degree (equally with)",
+    "count": 1263,
+    "example": {
+      "reference": "Genesis 44:28",
+      "text": "And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:"
+    }
+  },
+  {
+    "rank": 29,
+    "strongs": "H4480",
+    "hebrew": "מִן",
+    "transliteration": "min",
+    "gloss": "properly, a part of; hence (prepositionally), from or out of in many senses",
+    "count": 1230,
+    "example": {
+      "reference": "Genesis 3:12",
+      "text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat."
+    }
+  },
+  {
+    "rank": 30,
+    "strongs": "H1",
+    "hebrew": "אָב",
+    "transliteration": "ʼâb",
+    "gloss": "father, in a literal and immediate, or figurative and remote application",
+    "count": 1213,
+    "example": {
+      "reference": "Genesis 27:10",
+      "text": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
+    }
+  },
+  {
+    "rank": 31,
+    "strongs": "H2088",
+    "hebrew": "זֶה",
+    "transliteration": "zeh",
+    "gloss": "the masculine demonstrative pronoun, this or that",
+    "count": 1178,
+    "example": {
+      "reference": "Genesis 28:16",
+      "text": "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
+    }
+  },
+  {
+    "rank": 32,
+    "strongs": "H8085",
+    "hebrew": "שָׁמַע",
+    "transliteration": "shâmaʻ",
+    "gloss": "to hear intelligently (often with implication of attention, obedience, etc.; causatively, to tell, etc.)",
+    "count": 1165,
+    "example": {
+      "reference": "Genesis 26:5",
+      "text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws."
+    }
+  },
+  {
+    "rank": 33,
+    "strongs": "H1696",
+    "hebrew": "דָבַר",
+    "transliteration": "dâbar",
+    "gloss": "perhaps properly, to arrange; but used figuratively (of words), to speak; rarely (in a destructive sense) to subdue",
+    "count": 1144,
+    "example": {
+      "reference": "Genesis 41:28",
+      "text": "This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh."
+    }
+  },
+  {
+    "rank": 34,
+    "strongs": "H859",
+    "hebrew": "אַתָּה",
+    "transliteration": "ʼattâh",
+    "gloss": "thou and thee, or (plural) ye and you",
+    "count": 1104,
+    "example": {
+      "reference": "Genesis 26:27",
+      "text": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?"
+    }
+  },
+  {
+    "rank": 35,
+    "strongs": "H5892",
+    "hebrew": "עִיר",
+    "transliteration": "ʻîyr",
+    "gloss": "a city (a place guarded by waking or a watch) in the widest sense (even of a mere encampment or post)",
+    "count": 1095,
+    "example": {
+      "reference": "Genesis 28:19",
+      "text": "And he called the name of that place Bethel: but the name of that city was called Luz at the first."
+    }
+  },
+  {
+    "rank": 36,
+    "strongs": "H3427",
+    "hebrew": "יָשַׁב",
+    "transliteration": "yâshab",
+    "gloss": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry",
+    "count": 1092,
+    "example": {
+      "reference": "Genesis 4:16",
+      "text": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden."
+    }
+  },
+  {
+    "rank": 37,
+    "strongs": "H3318",
+    "hebrew": "יָצָא",
+    "transliteration": "yâtsâʼ",
+    "gloss": "to go (causatively, bring) out, in a great variety of applications, literally and figuratively, direct and proxim.",
+    "count": 1076,
+    "example": {
+      "reference": "Genesis 48:12",
+      "text": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth."
+    }
+  },
+  {
+    "rank": 38,
+    "strongs": "H1732",
+    "hebrew": "דָּוִד",
+    "transliteration": "Dâvid",
+    "gloss": "David, the youngest son of Jesse",
+    "count": 1075,
+    "example": {
+      "reference": "1 Samuel 16:19",
+      "text": "Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which is with the sheep."
+    }
+  },
+  {
+    "rank": 39,
+    "strongs": "H7725",
+    "hebrew": "שׁוּב",
+    "transliteration": "shûwb",
+    "gloss": "to turn back (hence, away) transitively or intransitively, literally or figuratively (not necessarily with the idea of return to the starting point); generally to retreat; often adverbial, again",
+    "count": 1073,
+    "example": {
+      "reference": "Genesis 16:9",
+      "text": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+    }
+  },
+  {
+    "rank": 40,
+    "strongs": "H518",
+    "hebrew": "אִם",
+    "transliteration": "ʼim",
+    "gloss": "used very widely as demonstrative, lo!; interrogative, whether?; or conditional, if, although; also Oh that!, when; hence, as a negative, not",
+    "count": 1070,
+    "example": {
+      "reference": "Genesis 34:15",
+      "text": "But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;"
+    }
+  },
+  {
+    "rank": 41,
+    "strongs": "H5973",
+    "hebrew": "עִם",
+    "transliteration": "ʻim",
+    "gloss": "adverb or preposition, with (i.e. in conjunction with), in varied applications; specifically, equally with; often with prepositional prefix (and then usually unrepresented in English)",
+    "count": 1049,
+    "example": {
+      "reference": "Genesis 48:12",
+      "text": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth."
+    }
+  },
+  {
+    "rank": 42,
+    "strongs": "H3212",
+    "hebrew": "יָלַךְ",
+    "transliteration": "yâlak",
+    "gloss": "to walk (literally or figuratively); causatively, to carry (in various senses)",
+    "count": 1044,
+    "example": {
+      "reference": "Genesis 50:18",
+      "text": "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants."
+    }
+  },
+  {
+    "rank": 43,
+    "strongs": "H259",
+    "hebrew": "אֶחָד",
+    "transliteration": "ʼechâd",
+    "gloss": "properly, united, i.e. one; or (as an ordinal) first",
+    "count": 976,
+    "example": {
+      "reference": "Genesis 4:19",
+      "text": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah."
+    }
+  },
+  {
+    "rank": 44,
+    "strongs": "H3947",
+    "hebrew": "לָקַח",
+    "transliteration": "lâqach",
+    "gloss": "to take (in the widest variety of applications)",
+    "count": 967,
+    "example": {
+      "reference": "Genesis 4:19",
+      "text": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah."
+    }
+  },
+  {
+    "rank": 45,
+    "strongs": "H3045",
+    "hebrew": "יָדַע",
+    "transliteration": "yâdaʻ",
+    "gloss": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)",
+    "count": 953,
+    "example": {
+      "reference": "Genesis 28:16",
+      "text": "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
+    }
+  },
+  {
+    "rank": 46,
+    "strongs": "H5869",
+    "hebrew": "עַיִן",
+    "transliteration": "ʻayin",
+    "gloss": "an eye (literally or figuratively); by analogy, a fountain (as the eye of the landscape)",
+    "count": 897,
+    "example": {
+      "reference": "Genesis 24:29",
+      "text": "And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well."
+    }
+  },
+  {
+    "rank": 47,
+    "strongs": "H5927",
+    "hebrew": "עָלָה",
+    "transliteration": "ʻâlâh",
+    "gloss": "to ascend, intransitively (be high) or actively (mount); used in a great variety of senses, primary and secondary, literal and figurative",
+    "count": 894,
+    "example": {
+      "reference": "Genesis 44:24",
+      "text": "And it came to pass when we came up unto thy servant my father, we told him the words of my lord."
+    }
+  },
+  {
+    "rank": 48,
+    "strongs": "H854",
+    "hebrew": "אֵת",
+    "transliteration": "ʼêth",
+    "gloss": "properly, nearness (used only as a preposition or an adverb), near; hence, generally, with, by, at, among, etc.",
+    "count": 889,
+    "example": {
+      "reference": "Genesis 25:10",
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+    }
+  },
+  {
+    "rank": 49,
+    "strongs": "H8141",
+    "hebrew": "שָׁנֶה",
+    "transliteration": "shâneh",
+    "gloss": "a year (as a revolution of time)",
+    "count": 880,
+    "example": {
+      "reference": "Genesis 5:10",
+      "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+    }
+  },
+  {
+    "rank": 50,
+    "strongs": "H589",
+    "hebrew": "אֲנִי",
+    "transliteration": "ʼănîy",
+    "gloss": "I",
+    "count": 874,
+    "example": {
+      "reference": "Genesis 27:32",
+      "text": "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau."
+    }
+  },
+  {
+    "rank": 51,
+    "strongs": "H8034",
+    "hebrew": "שֵׁם",
+    "transliteration": "shêm",
+    "gloss": "an appellation, as a mark or memorial of individuality; by implication honor, authority, character",
+    "count": 864,
+    "example": {
+      "reference": "Genesis 29:16",
+      "text": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+    }
+  },
+  {
+    "rank": 52,
+    "strongs": "H7971",
+    "hebrew": "שָׁלַח",
+    "transliteration": "shâlach",
+    "gloss": "to send away, for, or out (in a great variety of applications)",
+    "count": 847,
+    "example": {
+      "reference": "Genesis 8:8",
+      "text": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
+    }
+  },
+  {
+    "rank": 53,
+    "strongs": "H2009",
+    "hebrew": "הִנֵּה",
+    "transliteration": "hinnêh",
+    "gloss": "lo!",
+    "count": 843,
+    "example": {
+      "reference": "Genesis 50:18",
+      "text": "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants."
+    }
+  },
+  {
+    "rank": 54,
+    "strongs": "H4191",
+    "hebrew": "מוּת",
+    "transliteration": "mûwth",
+    "gloss": "to die (literally or figuratively); causatively, to kill",
+    "count": 839,
+    "example": {
+      "reference": "Genesis 46:30",
+      "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive."
+    }
+  },
+  {
+    "rank": 55,
+    "strongs": "H8033",
+    "hebrew": "שָׁם",
+    "transliteration": "shâm",
+    "gloss": "there (transferring to time) then; often thither, or thence",
+    "count": 835,
+    "example": {
+      "reference": "Genesis 25:10",
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+    }
+  },
+  {
+    "rank": 56,
+    "strongs": "H3063",
+    "hebrew": "יְהוּדָה",
+    "transliteration": "Yᵉhûwdâh",
+    "gloss": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+    "count": 819,
+    "example": {
+      "reference": "Genesis 37:26",
+      "text": "And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?"
+    }
+  },
+  {
+    "rank": 57,
+    "strongs": "H398",
+    "hebrew": "אָכַל",
+    "transliteration": "ʼâkal",
+    "gloss": "to eat (literally or figuratively)",
+    "count": 815,
+    "example": {
+      "reference": "Genesis 27:10",
+      "text": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
+    }
+  },
+  {
+    "rank": 58,
+    "strongs": "H5650",
+    "hebrew": "עֶבֶד",
+    "transliteration": "ʻebed",
+    "gloss": "a servant",
+    "count": 803,
+    "example": {
+      "reference": "Genesis 9:27",
+      "text": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+    }
+  },
+  {
+    "rank": 59,
+    "strongs": "H369",
+    "hebrew": "אַיִן",
+    "transliteration": "ʼayin",
+    "gloss": "a nonentity; generally used as a negative particle",
+    "count": 790,
+    "example": {
+      "reference": "Genesis 37:29",
+      "text": "And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes."
+    }
+  },
+  {
+    "rank": 60,
+    "strongs": "H802",
+    "hebrew": "אִשָּׁה",
+    "transliteration": "ʼishshâh",
+    "gloss": "a woman",
+    "count": 781,
+    "example": {
+      "reference": "Genesis 25:10",
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+    }
+  },
+  {
+    "rank": 61,
+    "strongs": "H3651",
+    "hebrew": "כֵּן",
+    "transliteration": "kên",
+    "gloss": "properly, set upright; hence (figuratively as adjective) just; but usually (as adverb or conjunction) rightly or so (in various applications to manner, time and relation; often with other particles)",
+    "count": 771,
+    "example": {
+      "reference": "Genesis 45:15",
+      "text": "Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him."
+    }
+  },
+  {
+    "rank": 62,
+    "strongs": "H1571",
+    "hebrew": "גַּם",
+    "transliteration": "gam",
+    "gloss": "properly, assemblage; used only adverbially also, even, yea, though; often repeated as correl. both...and",
+    "count": 769,
+    "example": {
+      "reference": "Genesis 50:18",
+      "text": "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants."
+    }
+  },
+  {
+    "rank": 63,
+    "strongs": "H8147",
+    "hebrew": "שְׁנַיִם",
+    "transliteration": "shᵉnayim",
+    "gloss": "two; also (as ordinal) twofold",
+    "count": 769,
+    "example": {
+      "reference": "Genesis 29:16",
+      "text": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+    }
+  },
+  {
+    "rank": 64,
+    "strongs": "H4872",
+    "hebrew": "מֹשֶׁה",
+    "transliteration": "Môsheh",
+    "gloss": "Mosheh, the Israelite lawgiver",
+    "count": 766,
+    "example": {
+      "reference": "Exodus 12:28",
+      "text": "And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they."
+    }
+  },
+  {
+    "rank": 65,
+    "strongs": "H5315",
+    "hebrew": "נֶפֶשׁ",
+    "transliteration": "nephesh",
+    "gloss": "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)",
+    "count": 757,
+    "example": {
+      "reference": "Genesis 37:21",
+      "text": "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him."
+    }
+  },
+  {
+    "rank": 66,
+    "strongs": "H4100",
+    "hebrew": "מָה",
+    "transliteration": "mâh",
+    "gloss": "properly, interrogative what? (including how? why? when?); but also exclamation, what! (including how!), or indefinitely what (including whatever, and even relatively, that which); often used with prefixes in various adverbial or conjunctive senses",
+    "count": 750,
+    "example": {
+      "reference": "Genesis 43:6",
+      "text": "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?"
+    }
+  },
+  {
+    "rank": 67,
+    "strongs": "H3548",
+    "hebrew": "כֹּהֵן",
+    "transliteration": "kôhên",
+    "gloss": "literally one officiating, a priest; also (by courtesy) an acting priest (although a layman)",
+    "count": 750,
+    "example": {
+      "reference": "Genesis 14:18",
+      "text": "And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God."
+    }
+  },
+  {
+    "rank": 68,
+    "strongs": "H428",
+    "hebrew": "אֵלֶּה",
+    "transliteration": "ʼêl-leh",
+    "gloss": "these or those",
+    "count": 747,
+    "example": {
+      "reference": "Genesis 21:29",
+      "text": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?"
+    }
+  },
+  {
+    "rank": 69,
+    "strongs": "H7121",
+    "hebrew": "קָרָא",
+    "transliteration": "qârâʼ",
+    "gloss": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)",
+    "count": 739,
+    "example": {
+      "reference": "Genesis 32:3",
+      "text": "And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom."
+    }
+  },
+  {
+    "rank": 70,
+    "strongs": "H408",
+    "hebrew": "אַל",
+    "transliteration": "ʼal",
+    "gloss": "not (the qualified negation, used as a deprecative); once (Job 24:25) as a noun, nothing",
+    "count": 725,
+    "example": {
+      "reference": "Exodus 23:1",
+      "text": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness."
+    }
+  },
+  {
+    "rank": 71,
+    "strongs": "H310",
+    "hebrew": "אַחַר",
+    "transliteration": "ʼachar",
+    "gloss": "properly, the hind part; generally used as an adverb or conjunction, after (in various senses)",
+    "count": 718,
+    "example": {
+      "reference": "Genesis 46:30",
+      "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive."
+    }
+  },
+  {
+    "rank": 72,
+    "strongs": "H1870",
+    "hebrew": "דֶּרֶךְ",
+    "transliteration": "derek",
+    "gloss": "a road (as trodden); figuratively, a course of life or mode of action, often adverb",
+    "count": 712,
+    "example": {
+      "reference": "Genesis 32:2",
+      "text": "And when Jacob saw them, he said, This is God’s host: and he called the name of that place Mahanaim."
+    }
+  },
+  {
+    "rank": 73,
+    "strongs": "H7451",
+    "hebrew": "רַע",
+    "transliteration": "raʻ",
+    "gloss": "bad or (as noun) evil (natural or moral)",
+    "count": 666,
+    "example": {
+      "reference": "Exodus 33:4",
+      "text": "And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments."
+    }
+  },
+  {
+    "rank": 74,
+    "strongs": "H5375",
+    "hebrew": "נָשָׂא",
+    "transliteration": "nâsâʼ",
+    "gloss": "to lift, in a great variety of applications, literal and figurative, absolute and relative",
+    "count": 654,
+    "example": {
+      "reference": "Exodus 23:1",
+      "text": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness."
+    }
+  },
+  {
+    "rank": 75,
+    "strongs": "H3389",
+    "hebrew": "יְרוּשָׁלִַ͏ם",
+    "transliteration": "Yᵉrûwshâlaim",
+    "gloss": "Jerushalaim or Jerushalem, the capital city of Palestine",
+    "count": 643,
+    "example": {
+      "reference": "1 Samuel 17:54",
+      "text": "And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent."
+    }
+  },
+  {
+    "rank": 76,
+    "strongs": "H4714",
+    "hebrew": "מִצְרַיִם",
+    "transliteration": "Mitsrayim",
+    "gloss": "Mitsrajim, i.e. Upper and Lower Egypt",
+    "count": 635,
+    "example": {
+      "reference": "Exodus 12:40",
+      "text": "Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years."
+    }
+  },
+  {
+    "rank": 77,
+    "strongs": "H251",
+    "hebrew": "אָח",
+    "transliteration": "ʼâch",
+    "gloss": "a brother (used in the widest sense of literal relationship and metaphorical affinity or resemblance [like 1])",
+    "count": 630,
+    "example": {
+      "reference": "Genesis 27:11",
+      "text": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:"
+    }
+  },
+  {
+    "rank": 78,
+    "strongs": "H6965",
+    "hebrew": "קוּם",
+    "transliteration": "qûwm",
+    "gloss": "to rise (in various applications, literal, figurative, intensive and causative)",
+    "count": 628,
+    "example": {
+      "reference": "Genesis 38:19",
+      "text": "And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood."
+    }
+  },
+  {
+    "rank": 79,
+    "strongs": "H2063",
+    "hebrew": "זֹאת",
+    "transliteration": "zôʼth",
+    "gloss": "this (often used adverb)",
+    "count": 605,
+    "example": {
+      "reference": "Genesis 34:15",
+      "text": "But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;"
+    }
+  },
+  {
+    "rank": 80,
+    "strongs": "H7218",
+    "hebrew": "רֹאשׁ",
+    "transliteration": "rôʼsh",
+    "gloss": "the head (as most easily shaken), whether literal or figurative (in many applications, of place, time, rank, itc.)",
+    "count": 600,
+    "example": {
+      "reference": "Exodus 29:15",
+      "text": "Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram."
+    }
+  },
+  {
+    "rank": 81,
+    "strongs": "H3820",
+    "hebrew": "לֵב",
+    "transliteration": "lêb",
+    "gloss": "the heart; also used (figuratively) very widely for the feelings, the will and even the intellect; likewise for the centre of anything",
+    "count": 596,
+    "example": {
+      "reference": "Genesis 6:6",
+      "text": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart."
+    }
+  },
+  {
+    "rank": 82,
+    "strongs": "H1323",
+    "hebrew": "בַּת",
+    "transliteration": "bath",
+    "gloss": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+    "count": 590,
+    "example": {
+      "reference": "Genesis 29:16",
+      "text": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+    }
+  },
+  {
+    "rank": 83,
+    "strongs": "H7760",
+    "hebrew": "שׂוּם",
+    "transliteration": "sûwm",
+    "gloss": "to put (used in a great variety of applications, literal, figurative, inferentially, and elliptically)",
+    "count": 586,
+    "example": {
+      "reference": "Genesis 30:36",
+      "text": "And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks."
+    }
+  },
+  {
+    "rank": 84,
+    "strongs": "H3967",
+    "hebrew": "מֵאָה",
+    "transliteration": "mêʼâh",
+    "gloss": "a hundred; also as a multiplicative and a fraction",
+    "count": 583,
+    "example": {
+      "reference": "Genesis 5:10",
+      "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+    }
+  },
+  {
+    "rank": 85,
+    "strongs": "H4325",
+    "hebrew": "מַיִם",
+    "transliteration": "mayim",
+    "gloss": "water; figuratively, juice; by euphemism, urine, semen",
+    "count": 582,
+    "example": {
+      "reference": "Genesis 24:17",
+      "text": "And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher."
+    }
+  },
+  {
+    "rank": 86,
+    "strongs": "H3541",
+    "hebrew": "כֹּה",
+    "transliteration": "kôh",
+    "gloss": "properly, like this, i.e. by implication, (of manner) thus (or so); also (of place) here (or hither); or (of time) now",
+    "count": 577,
+    "example": {
+      "reference": "Numbers 23:5",
+      "text": "And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak."
+    }
+  },
+  {
+    "rank": 87,
+    "strongs": "H1471",
+    "hebrew": "גּוֹי",
+    "transliteration": "gôwy",
+    "gloss": "a foreign nation; hence, a Gentile; also (figuratively) a troop of animals, or a flight of locusts",
+    "count": 567,
+    "example": {
+      "reference": "Genesis 22:18",
+      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
+    }
+  },
+  {
+    "rank": 88,
+    "strongs": "H1992",
+    "hebrew": "הֵם",
+    "transliteration": "hêm",
+    "gloss": "they (only used when emphatic)",
+    "count": 566,
+    "example": {
+      "reference": "Genesis 40:18",
+      "text": "And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:"
+    }
+  },
+  {
+    "rank": 89,
+    "strongs": "H2896",
+    "hebrew": "טוֹב",
+    "transliteration": "ṭôwb",
+    "gloss": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
+    "count": 565,
+    "example": {
+      "reference": "Genesis 2:18",
+      "text": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him."
+    }
+  },
+  {
+    "rank": 90,
+    "strongs": "H5674",
+    "hebrew": "עָבַר",
+    "transliteration": "ʻâbar",
+    "gloss": "to cross over; used very widely of any transition (literal or figurative; transitive, intransitive, intensive, causative); specifically, to cover (in copulation)",
+    "count": 562,
+    "example": {
+      "reference": "Genesis 18:3",
+      "text": "And said, My LORD, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:"
+    }
+  },
+  {
+    "rank": 91,
+    "strongs": "H120",
+    "hebrew": "אָדָם",
+    "transliteration": "ʼâdâm",
+    "gloss": "ruddy i.e. a human being (an individual or the species, mankind, etc.)",
+    "count": 552,
+    "example": {
+      "reference": "Genesis 3:12",
+      "text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat."
+    }
+  },
+  {
+    "rank": 92,
+    "strongs": "H2022",
+    "hebrew": "הַר",
+    "transliteration": "har",
+    "gloss": "a mountain or range of hills (sometimes used figuratively)",
+    "count": 547,
+    "example": {
+      "reference": "Exodus 27:8",
+      "text": "Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it."
+    }
+  },
+  {
+    "rank": 93,
+    "strongs": "H1419",
+    "hebrew": "גָּדוֹל",
+    "transliteration": "gâdôwl",
+    "gloss": "great (in any sense); hence, older; also insolent",
+    "count": 530,
+    "example": {
+      "reference": "Genesis 29:16",
+      "text": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+    }
+  },
+  {
+    "rank": 94,
+    "strongs": "H5975",
+    "hebrew": "עָמַד",
+    "transliteration": "ʻâmad",
+    "gloss": "to stand, in various relations (literal and figurative, intransitive and transitive)",
+    "count": 526,
+    "example": {
+      "reference": "Genesis 18:22",
+      "text": "And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the LORD."
+    }
+  },
+  {
+    "rank": 95,
+    "strongs": "H1980",
+    "hebrew": "הָלַךְ",
+    "transliteration": "hâlak",
+    "gloss": "to walk (in a great variety of applications, literally and figuratively)",
+    "count": 511,
+    "example": {
+      "reference": "Genesis 32:2",
+      "text": "And when Jacob saw them, he said, This is God’s host: and he called the name of that place Mahanaim."
+    }
+  },
+  {
+    "rank": 96,
+    "strongs": "H8478",
+    "hebrew": "תַּחַת",
+    "transliteration": "tachath",
+    "gloss": "the bottom (as depressed); only adverbially, below (often with prepositional prefix underneath), in lieu of, etc.",
+    "count": 511,
+    "example": {
+      "reference": "Genesis 16:9",
+      "text": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+    }
+  },
+  {
+    "rank": 97,
+    "strongs": "H505",
+    "hebrew": "אֶלֶף",
+    "transliteration": "ʼeleph",
+    "gloss": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand",
+    "count": 507,
+    "example": {
+      "reference": "Exodus 38:29",
+      "text": "And the brass of the offering was seventy talents, and two thousand and four hundred shekels."
+    }
+  },
+  {
+    "rank": 98,
+    "strongs": "H6963",
+    "hebrew": "קוֹל",
+    "transliteration": "qôwl",
+    "gloss": "a voice or sound",
+    "count": 506,
+    "example": {
+      "reference": "Genesis 26:5",
+      "text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws."
+    }
+  },
+  {
+    "rank": 99,
+    "strongs": "H2416",
+    "hebrew": "חַי",
+    "transliteration": "chay",
+    "gloss": "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively",
+    "count": 503,
+    "example": {
+      "reference": "Genesis 46:30",
+      "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive."
+    }
+  },
+  {
+    "rank": 100,
+    "strongs": "H5221",
+    "hebrew": "נָכָה",
+    "transliteration": "nâkâh",
+    "gloss": "to strike (lightly or severely, literally or figuratively)",
+    "count": 502,
+    "example": {
+      "reference": "Exodus 9:31",
+      "text": "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."
+    }
+  }
+]
