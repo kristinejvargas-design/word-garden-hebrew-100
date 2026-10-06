@@ -263,6 +263,7 @@
       if (!Array.isArray(words) || words.length !== 100) throw new Error("Vocabulary file should contain 100 entries.");
       showCard();
       renderWordList();
+      if (!$("#quiz-view").hidden && !quizWord) nextQuestion();
       updateProgress();
       if (window.location.hash === "#wordbank") setView("list-view");
       document.documentElement.classList.add("is-ready");
